@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/OtherGames.unity
+    guid: e4d160271da6feb46af2707c135904a5
+  - enabled: 0
+    path: Assets/_Scenes/Title_Scene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/StartPairs.unity
+    guid: f19ff9374d2dec84c84d40abbac40d6f
+  - enabled: 1
+    path: Assets/Scenes/Pairs.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/MorePairs.unity
+    guid: 97e2d14a15c300743b1a50a19bbd8071
+  - enabled: 1
+    path: Assets/Scenes/DifficultySelect.unity
+    guid: 0f44378f783f10643974b7e265cb5408
+  - enabled: 1
+    path: Assets/Scenes/GameSettings.unity
+    guid: c784654095769e74da69edcfa935dbe8
+  - enabled: 1
+    path: Assets/Scenes/FacialMemory.unity
+    guid: 80cbbec7633629446b85991ac1a2f70d
+  - enabled: 0
+    path: Assets/Scenes/HowIRememberIt.unity
+    guid: 8aa0e0cf4339dc64f9a66b1a178ecd76
+  - enabled: 0
+    path: Assets/Scenes/MelodyMatch.unity
+    guid: 287e1f738aba3fe479e612591cfe099f
+  - enabled: 0
+    path: Assets/Scenes/MemoryBank.unity
+    guid: 2620abf9efef3064991da187cd83a90d
+  - enabled: 0
+    path: Assets/Scenes/MemoryMan.unity
+    guid: 6ec2bc1af3210234ea9b1259e8079b58
+  - enabled: 0
+    path: Assets/Scenes/MemoryMapping.unity
+    guid: de5935ed19f7b46438a9e0d384c91082
+  - enabled: 0
+    path: Assets/Scenes/MemoryGame.unity
+    guid: bbb3057a917289a45a238cd080253fec
+  - enabled: 0
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 8a375c2a5c9fd79419d4145fe029e396
+  - enabled: 0
+    path: Assets/Scenes/Final.unity
+    guid: 9871a983272f8f74fbb9053e63942915
+  - enabled: 0
+    path: Assets/_Scenes/Settings_Scene.unity
+    guid: d286a90c527f63d42a6d59f07b3416ca
+  - enabled: 0
+    path: Assets/_Scenes/Game_Scene.unity
+    guid: 2b40d58a80939474b879beb1798ecacf
+  - enabled: 0
+    path: Assets/Scenes/MemoryManGame.unity
+    guid: a86966255e8d4884eaf600b4f613ea63
+  - enabled: 0
+    path: Assets/Start_Screen.unity
+    guid: 835a03b37a81ebf4a81006a862ec4e0f
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: c127620f7c8796347a03bba68d7ff923, type: 2}
